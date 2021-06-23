@@ -68,3 +68,14 @@ print('OMG , you are {years} years old so you were born in {date}'.format(years=
 print('You lived: {}h in total' .format(hoursLived))
 
 ```
+### Potential Outcome
+```python
+Plz enter your date of birth (dd/mm/yyyy) 02.02.2000
+Invalid input please try again
+Plz enter your date of birth (dd/mm/yyyy) 20/02/2000
+2000-02-20 00:00:00
+7794 days, 16:03:09.126538
+You are 21 years, 4  months, 2  days, 20  hours, 8 minutes, 54 seconds old.
+OMG , you are 21 years old so you were born in 2000-02-20 00:00:00
+You lived: 1814420h in total
+```
